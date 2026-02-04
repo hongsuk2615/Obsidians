@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JWT&OUATH2/JWT_OUATH2.md",
+                "file": "JWT&OUATH2/핵심 개념.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JWT_OUATH2"
+              "title": "핵심 개념"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JWT&OUATH2/JWT_OUATH2.md",
+                "file": "JWT&OUATH2/핵심 개념.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "JWT_OUATH2 의 백링크"
+              "title": "핵심 개념 의 백링크"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JWT&OUATH2/JWT_OUATH2.md",
+                "file": "JWT&OUATH2/핵심 개념.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "JWT_OUATH2 의 나가는 링크"
+              "title": "핵심 개념 의 나가는 링크"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JWT&OUATH2/JWT_OUATH2.md",
+                "file": "JWT&OUATH2/핵심 개념.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "JWT_OUATH2 의 개요"
+              "title": "핵심 개념 의 개요"
             }
           }
         ]
@@ -181,15 +181,27 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "bases:새 베이스 생성하기": false,
-      "obsidian-kanban:새 보드 만들기": false
+      "obsidian-kanban:새 보드 만들기": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "7389f00df710fc43",
   "lastOpenFiles": [
     "JWT&OUATH2/ERD.md",
-    "JWT&OUATH2/문제 및 문제해결.md",
-    "JWT&OUATH2/핵심 개념.md",
     "JWT&OUATH2/JWT_OUATH2.md",
+    "JWT&OUATH2/문제 및 문제해결.md",
+    "JWT&OUATH2/설계.md",
+    "JWT&OUATH2/핵심 개념.md",
+    "첨부파일/JWT_properties_class.png",
+    "첨부파일/JWT_properties.png",
+    "첨부파일/토큰검증_파싱.png",
+    "토큰검증_파싱.md",
+    "첨부파일/토큰생성.png",
+    "첨부파일/Pasted image 20260204141353.png",
+    "첨부파일/Pasted image 20260204141319.png",
+    "첨부파일/Pasted image 20260204141225.png",
+    "첨부파일/Pasted image 20260204141051.png",
+    "첨부파일/Pasted image 20260204140556.png",
     "칸반.md",
     "2026-02-04.md",
     "무제.base",
