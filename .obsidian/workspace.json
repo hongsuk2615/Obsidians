@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JWT&OUATH2/핵심 개념.md",
+                "file": "JWT&OAUTH2/문제 및 문제해결.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "핵심 개념"
+              "title": "문제 및 문제해결"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JWT&OUATH2/핵심 개념.md",
+                "file": "JWT&OAUTH2/문제 및 문제해결.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "핵심 개념 의 백링크"
+              "title": "문제 및 문제해결 의 백링크"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JWT&OUATH2/핵심 개념.md",
+                "file": "JWT&OAUTH2/문제 및 문제해결.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "핵심 개념 의 나가는 링크"
+              "title": "문제 및 문제해결 의 나가는 링크"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JWT&OUATH2/핵심 개념.md",
+                "file": "JWT&OAUTH2/문제 및 문제해결.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "핵심 개념 의 개요"
+              "title": "문제 및 문제해결 의 개요"
             }
           }
         ]
@@ -187,15 +187,15 @@
   },
   "active": "5b97eac73c3d74d9",
   "lastOpenFiles": [
-    "JWT&OUATH2/문제 및 문제해결.md",
+    "JWT&OAUTH2/핵심 개념.md",
+    "JWT&OAUTH2/설계.md",
+    "JWT&OAUTH2/JWT_OAUTH2.md",
+    "JWT&OAUTH2/ERD.md",
+    "JWT&OAUTH2/문제 및 문제해결.md",
     "첨부파일/쿠키생성시_설정값사용.png",
     "첨부파일/토큰검증_파싱.png",
     "첨부파일/토큰생성.png",
-    "JWT&OUATH2/JWT_OUATH2.md",
-    "JWT&OUATH2/핵심 개념.md",
-    "JWT&OUATH2/설계.md",
     "첨부파일/쿠키생성시.md",
-    "JWT&OUATH2/ERD.md",
     "첨부파일/JWT_properties.png",
     "README.md",
     "첨부파일/JWT_properties_class.png",
@@ -213,7 +213,7 @@
     "계획.md",
     "JWT&OAUTH2.md",
     "첨부파일",
-    "JWT&OUATH2",
+    "JWT&OAUTH2",
     "환영합니다!.md"
   ]
 }
