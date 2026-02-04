@@ -1,0 +1,10 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "시작일": "date",
+    "리스트": "multitext",
+    "tasks": "checkbox"
+  }
+}

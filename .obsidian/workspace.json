@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "8cf7e6e66434e57a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f34930841e92f232",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7389f00df710fc43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JWT&OUATH2/JWT_OUATH2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JWT_OUATH2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5be627bedd72c9c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d1ac8787aabf34e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b97eac73c3d74d9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "44d8df8ccf756fab",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "990876bf5cadb5a0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 311.5
+  },
+  "right": {
+    "id": "e39d43f0891dcbbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "907f2d8890d9f2a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e02db38e354fe80",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "JWT&OUATH2/JWT_OUATH2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "JWT_OUATH2 의 백링크"
+            }
+          },
+          {
+            "id": "9672eb09267a7e68",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "JWT&OUATH2/JWT_OUATH2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "JWT_OUATH2 의 나가는 링크"
+            }
+          },
+          {
+            "id": "63680eb8390688e1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "416e78eb33163e69",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "bb30d5f3c7b1cb6d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "JWT&OUATH2/JWT_OUATH2.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "JWT_OUATH2 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
+      "obsidian-kanban:새 보드 만들기": false
+    }
+  },
+  "active": "7389f00df710fc43",
+  "lastOpenFiles": [
+    "JWT&OUATH2/ERD.md",
+    "JWT&OUATH2/문제 및 문제해결.md",
+    "JWT&OUATH2/핵심 개념.md",
+    "JWT&OUATH2/JWT_OUATH2.md",
+    "칸반.md",
+    "2026-02-04.md",
+    "무제.base",
+    "무제.md",
+    "이름 없는 보드.md",
+    "계획.md",
+    "JWT&OAUTH2.md",
+    "첨부파일",
+    "JWT&OUATH2",
+    "환영합니다!.md"
+  ]
+}
